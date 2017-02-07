@@ -1,1 +1,2 @@
-"# CLING_API" 
+Basic application based on Cleeng API
+
